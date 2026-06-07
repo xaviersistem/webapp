@@ -57,7 +57,6 @@ The app is currently available in the following languages:
 
 More translations are welcome. See [instructions](https://github.com/tinode/chat/blob/devel/docs/translations.md#webapp).
 
-
 ## Not done yet
 
 * End-to-End encryption.
@@ -79,11 +78,11 @@ More translations are welcome. See [instructions](https://github.com/tinode/chat
 ### Desktop screenshot
 
 <p align="center">
-  <img src="web-desktop.jpg" alt="Desktop web: full app" width=810 />
+ <img src="web-desktop.jpg" alt="Desktop web: full app" width=810 />
 </p>
 
 ### Mobile screenshots
 
 <p align="center">
-  <kbd><img src="web-mob-contacts.png" alt="Mobile web: contacts" width=250 /></kbd> <kbd><img src="web-mob-chat.png" alt="Mobile web: chat" width=250 /></kbd> <kbd><img src="web-mob-chat-dark.png" alt="Mobile web: chat dark mode" width=250 /></kbd> <kbd><img src="web-mob-info.png" alt="Mobile web: topic info" width=250 /></kbd> <kbd><img src="web-mob-forward.png" alt="Mobile web: forward message" width=250 /></kbd> <kbd><img src="web-mob-video-call.png" alt="Mobile web: video call" width=250 /></kbd>
+ <kbd><img src="web-mob-contacts.png" alt="Mobile web: contacts" width=250 /></kbd> <kbd><img src="web-mob-chat.png" alt="Mobile web: chat" width=250 /></kbd> <kbd><img src="web-mob-chat-dark.png" alt="Mobile web: chat dark mode" width=250 /></kbd> <kbd><img src="web-mob-info.png" alt="Mobile web: topic info" width=250 /></kbd> <kbd><img src="web-mob-forward.png" alt="Mobile web: forward message" width=250 /></kbd> <kbd><img src="web-mob-video-call.png" alt="Mobile web: video call" width=250 /></kbd>
 </p>
